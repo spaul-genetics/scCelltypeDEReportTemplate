@@ -91,6 +91,8 @@ HOW TO EDIT TEXT AND CALLOUTS
 
 LAYOUT AND INTERACTIVITY
 - Edit wording and static page structure in the raw HTML block below.
+- The header logo is `assets/RTB_Wheel.png`. Replace that file and update its
+  alternative text when applying different project or institutional branding.
 - Edit dimensions, colors, spacing, sticky behavior, and responsive rules in
   `styles.css`.
 - Edit selection, filtering, tabs, figure zoom, and card creation in
@@ -294,7 +296,7 @@ Static page scaffold. The empty containers are populated by interactions.js.
 Preserve referenced IDs or update the corresponding JavaScript selectors.
 -->
 <header class="report-header">
-  <div class="template-mark">T</div>
+  <img class="template-logo" src="assets/RTB_Wheel.png" alt="RTB Wheel logo">
   <div>
     <h1>Interactive single-cell report template</h1>
     <div class="subtitle">Reusable cluster annotation and descriptive differential-expression layout using entirely synthetic values.</div>

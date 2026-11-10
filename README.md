@@ -2,6 +2,8 @@
 
 This directory is a reusable, self-contained Quarto template modeled on the two-panel cluster-review and full-width differential-expression layout developed for NIAID-1263. It contains no biological measurements, gene-expression values, annotations, or DE results from that project. The bundled cell coordinates, metadata, marker summaries, and DE statistics are deterministic synthetic examples.
 
+The header uses the RTB_wheel logo stored under `assets/`; branding can be replaced independently of the analytical example data.
+
 ## Render
 
 From this directory:
