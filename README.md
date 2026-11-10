@@ -4,6 +4,18 @@ This directory is a reusable, self-contained Quarto template modeled on the two-
 
 The header uses the RTB_wheel logo stored under `assets/`; branding can be replaced independently of the analytical example data.
 
+## Preview
+
+### Interactive cluster annotation
+
+![Interactive cluster annotation overview](figures/report_template_overview.png)
+
+### Supporting evidence and differential-expression review
+
+| Marker-evidence panel | Differential-expression review |
+|:--:|:--:|
+| <img src="figures/report_template_marker_evidence.png" alt="Cluster marker-evidence panel" width="430"> | <img src="figures/report_template_de_review.png" alt="Differential-expression review section" width="650"> |
+
 ## Render
 
 From this directory:
